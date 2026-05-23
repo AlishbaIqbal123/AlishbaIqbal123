@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alishba Iqbal 👋</h1>
 
 <p align="center">
-  <em>Software Engineering Student · Full Stack Developer · Flutter Developer · AI Enthusiast</em>
+  <em>Software Engineer · Full Stack Developer · Flutter Developer · AI Enthusiast</em>
 </p>
 
 <p align="center">
