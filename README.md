@@ -1,22 +1,27 @@
 <div align="center">
+<img src="./assets/header-bubbles.svg" width="100%" alt="header"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi,%20I'm%20Alishba%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20Full%20Stack%20·%20Flutter%20·%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+%26+mobile+apps+🚀;Flutter+%7C+React.js+%7C+Node.js+%7C+Gemini+AI;Turning+coffee+into+clean+code+☕;Open+to+Software+Engineer+Internships!" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="mailto:i.alishba1342@gmail.com"><img src="https://img.shields.io/badge/Email-i.alishba1342%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/alishba-iqbal-a667b6263" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-00C9A7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://alishbaiqbal123.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/AlishbaIqbal123" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AlishbaIqbal123&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
-<br/>
+<img src="./assets/divider-bubbles.svg" width="100%" alt="divider"/>
 
 ## 🙋‍♀️ About Me
 
@@ -32,7 +37,7 @@ fun_fact: "I debug faster with chai in hand ☕"
 
 > 🚀 I love turning ideas into **scalable, user-focused products** — from AI resume analyzers to offline-first mobile apps.
 
-<br/>
+<img src="./assets/divider-bubbles-2.svg" width="100%" alt="divider"/>
 
 ## 🎓 Education
 
@@ -44,7 +49,7 @@ fun_fact: "I debug faster with chai in hand ☕"
 
 </div>
 
-<br/>
+<img src="./assets/divider-bubbles.svg" width="100%" alt="divider"/>
 
 ## 🛠️ Tech Stack
 
@@ -54,13 +59,19 @@ fun_fact: "I debug faster with chai in hand ☕"
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,py,php,js,dart,java&theme=light" />
 
+<br/><br/>
+
 **Frameworks & Libraries**
 <br/>
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,laravel,bootstrap,stripe&theme=light" />
 
+<br/><br/>
+
 **Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,sqlite&theme=light" />
+
+<br/><br/>
 
 **Tools & Platforms**
 <br/>
@@ -68,7 +79,7 @@ fun_fact: "I debug faster with chai in hand ☕"
 
 </div>
 
-<br/>
+<img src="./assets/divider-bubbles-2.svg" width="100%" alt="divider"/>
 
 ## 💼 Experience
 
@@ -113,7 +124,7 @@ fun_fact: "I debug faster with chai in hand ☕"
 
 </div>
 
-<br/>
+<img src="./assets/divider-bubbles.svg" width="100%" alt="divider"/>
 
 ## 🚀 Featured Projects
 
@@ -170,20 +181,30 @@ Offline-first business app with POS checkout, inventory tracking, customer ledge
 
 </div>
 
-<br/>
+<img src="./assets/divider-bubbles-2.svg" width="100%" alt="divider"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=AlishbaIqbal123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishbaIqbal123&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIqbal123&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIqbal123&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlishbaIqbal123&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishbaIqbal123&theme=react-dark&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+<img src="./assets/divider-bubbles.svg" width="100%" alt="divider"/>
 
 ## 📫 Let's Connect
 
@@ -196,4 +217,4 @@ Offline-first business app with POS checkout, inventory tracking, customer ledge
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" width="100%"/>
+<img src="./assets/footer-bubbles.svg" width="100%" alt="footer"/>
