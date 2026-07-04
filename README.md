@@ -1,173 +1,199 @@
-<h1 align="center">Hi there, I'm Alishba Iqbal 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Software Engineer · Full Stack Developer · Flutter Developer · AI Enthusiast</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi,%20I'm%20Alishba%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20Full%20Stack%20·%20Flutter%20·%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="mailto:i.alishba1342@gmail.com">
-    <img src="https://img.shields.io/badge/Email-i.alishba1342%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/alishba-iqbal-a667b6263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alishba%20Iqbal-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio-iota-eight-92.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/AlishbaIqbal123" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AlishbaIqbal123-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Vehari%2C%20Pakistan-green?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+%26+mobile+apps+🚀;Flutter+%7C+React.js+%7C+Node.js+%7C+Gemini+AI;Turning+coffee+into+clean+code+☕;Open+to+Software+Engineer+Internships!" alt="Typing SVG" />
+</a>
 
----
+<br/>
+
+<a href="mailto:i.alishba1342@gmail.com"><img src="https://img.shields.io/badge/Email-i.alishba1342%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alishba-iqbal-a667b6263" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-00C9A7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://alishbaiqbal123.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=AlishbaIqbal123&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
+
+<br/>
 
 ## 🙋‍♀️ About Me
 
-I'm a **Software Engineering student at COMSATS University Islamabad, Vehari** with hands-on experience in Flutter, Full Stack Development, React.js, Node.js, REST APIs, and AI-powered applications. I enjoy building scalable web and mobile applications, integrating payment systems (Stripe), and developing AI tools using Gemini APIs.
+```yaml
+name: Alishba Iqbal
+role: Software Engineering Student @ COMSATS University Islamabad, Vehari
+graduating: June 2027
+location: Vehari, Pakistan 🇵🇰
+currently_building: AI-powered apps, full-stack platforms & Flutter mobile apps
+looking_for: Software Engineer / Full Stack Developer Internship
+fun_fact: "I debug faster with chai in hand ☕"
+```
 
-> 🚀 Seeking a **Software Engineer / Full Stack Developer** internship where I can contribute to building efficient and user-focused software solutions.
+> 🚀 I love turning ideas into **scalable, user-focused products** — from AI resume analyzers to offline-first mobile apps.
 
----
+<br/>
 
 ## 🎓 Education
 
-| Degree | Institution | Expected Graduation |
-|--------|-------------|---------------------|
-| **Bachelor of Software Engineering** | COMSATS University Islamabad, Vehari | June 2027 |
+<div align="center">
 
----
+| 🏫 Institution | 🎓 Degree | 📅 Expected Graduation |
+|:---:|:---:|:---:|
+| COMSATS University Islamabad, Vehari | Bachelor of Software Engineering | June 2027 |
 
-## 🛠️ Technical Skills
+</div>
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
-</p>
+<br/>
 
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" alt="Stripe" />
-</p>
+## 🛠️ Tech Stack
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
+<div align="center">
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,py,php,js,dart,java&theme=light" />
 
----
+**Frameworks & Libraries**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,laravel,bootstrap,stripe&theme=light" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,sqlite&theme=light" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jira&theme=light" />
+
+</div>
+
+<br/>
 
 ## 💼 Experience
 
-### 🏢 React.JS Intern — [Internee.pk](https://internee.pk) *(Remote)*
-**Jan 2026 – March 2026**
-- Expanded production-level capabilities across **7+ tasks**, including an AI-powered resume analyzer, a full-stack E-commerce platform with secure payments, and a persistent AI chatbot using Gemini APIs.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🏢 Frontend Intern — [Tkxel](https://tkxel.com) *(Lahore, Pakistan)*
-**Aug 2025 – Sep 2025**
-- Enhanced **10+ high-fidelity** landing pages and newsletter layouts, improving cross-browser compatibility by **20%** and ensuring **97% alignment** with UI/UX design specifications.
+### 🏢 React.js Intern
+**[Internee.pk](https://internee.pk)** · Remote
+`Jan 2026 – Mar 2026`
 
-### 🎓 Virtual Job Simulations — [Forage](https://www.theforage.com) *(Remote)*
-**Oct 2025 – Feb 2026**
+- Delivered **7+ production-level tasks**
+- Built an AI-powered resume analyzer
+- Shipped a full-stack e-commerce platform with secure payments
+- Developed a persistent AI chatbot using Gemini APIs
 
-Completed hands-on simulations from **Mastercard, AWS, Citi, and Electronic Arts**, solving real-world engineering and cybersecurity scenarios.
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Intern
+**[Tkxel](https://tkxel.com)** · Lahore, Pakistan
+`Aug 2025 – Sep 2025`
+
+- Enhanced **10+ high-fidelity** landing pages & newsletters
+- Improved cross-browser compatibility by **20%**
+- Achieved **97% alignment** with UI/UX design specs
+
+</td>
+</tr>
+</table>
+
+### 🎓 Virtual Job Simulations — [Forage](https://www.theforage.com) · `Oct 2025 – Feb 2026`
+
+<div align="center">
 
 | Company | Domain | Highlights |
-|---------|--------|------------|
-| **Mastercard** | Cybersecurity | Identified 15+ critical phishing vulnerabilities; formulated a security training program simulating real-world attacks for 50+ virtual employees |
-| **AWS** | Solutions Architecture | Designed scalable hosting architecture using AWS Elastic Beanstalk; documented technical cost–benefit analysis |
-| **Citi** | Software Development | Built a real-time credit risk visualization tool in Java; created UML state diagrams for loan systems |
-| **Electronic Arts** | Software Engineering | Proposed game feature improvements; optimized C++ data structures; designed UML class diagrams |
+|:---:|:---:|---|
+| 🟠 **Mastercard** | Cybersecurity | Identified 15+ phishing vulnerabilities; built a security training program for 50+ virtual employees |
+| 🟡 **AWS** | Solutions Architecture | Designed scalable hosting on Elastic Beanstalk; wrote a cost–benefit analysis |
+| 🔵 **Citi** | Software Development | Built a real-time credit risk visualizer in Java; created UML state diagrams |
+| 🟢 **Electronic Arts** | Software Engineering | Proposed game feature improvements; optimized C++ data structures & UML class diagrams |
 
----
+</div>
 
-## 🚀 Projects
+<br/>
 
-### 💰 Finance Tracker — Personal Finance Management App
-**Stack:** Laravel 11 · PHP 8.2 · PostgreSQL · Bootstrap 5 · JavaScript
+## 🚀 Featured Projects
 
-A personal finance app featuring **real-time balance tracking**, budgeting analytics, and interactive dashboards with a mobile-first glassmorphism UI.
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%">
 
-### 🕌 Deen-Mate — Islamic Companion App
-**Stack:** Flutter · Firebase · GetX · REST APIs
+### 💰 Finance Tracker
+Personal finance app with real-time balance tracking, budgeting analytics & a glassmorphism dashboard.
 
-A feature-rich Islamic mobile application with Quran reading, prayer time calculations, Qibla compass, and background audio streaming using Firebase and multiple REST APIs with **offline-first support**.
+`Laravel 11` `PHP 8.2` `PostgreSQL` `Bootstrap 5` `JS`
 
----
+</td>
+<td width="50%">
 
-### 🤖 AI-Powered Resume Analyzer
-**Stack:** React · Node.js · Express · MongoDB · Google Gemini AI
+### 🕌 Deen-Mate
+Islamic companion app — Quran reading, prayer times, Qibla compass & offline-first audio streaming.
 
-A MERN-based AI platform that parses resumes, performs **semantic job-matching** with ATS keyword analysis, and delivers personalized career insights using Google Gemini models.
+`Flutter` `Firebase` `GetX` `REST APIs`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### ✅ Plan & Track — Task Management Application
-**Stack:** Flutter · Dart · SQLite · Provider
+### 🤖 AI Resume Analyzer
+MERN platform that parses resumes, performs semantic job-matching & ATS keyword analysis via Gemini AI.
 
-A mobile task management app supporting recurring tasks, subtasks with progress tracking, local notifications, and data import/export with **customizable themes**.
+`React` `Node.js` `Express` `MongoDB` `Gemini AI`
 
----
+</td>
+<td width="50%">
 
-### 🏪 Smart POS & Inventory Management App
-**Stack:** Flutter · Firebase · SQLite · Provider
+### ✅ Plan & Track
+Task manager with recurring tasks, subtasks, progress tracking & customizable themes.
 
-A business management mobile app with POS checkout, inventory tracking, customer ledger, **offline-first** data handling, and automated Google Drive backups with cloud sync.
+`Flutter` `Dart` `SQLite` `Provider`
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🏪 Smart POS & Inventory Management
+Offline-first business app with POS checkout, inventory tracking, customer ledger & automated Google Drive backups.
+
+`Flutter` `Firebase` `SQLite` `Provider`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AlishbaIqbal123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishbaIqbal123&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishbaIqbal123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIqbal123&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
----
+<br/>
 
 ## 📫 Let's Connect
 
-<p align="center">
-  <a href="mailto:i.alishba1342@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/alishba-iqbal-a667b6263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio-iota-eight-92.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlishbaIqbal123&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+<a href="mailto:i.alishba1342@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alishba-iqbal-a667b6263" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00C9A7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://alishbaiqbal123.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/AlishbaIqbal123" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" width="100%"/>
