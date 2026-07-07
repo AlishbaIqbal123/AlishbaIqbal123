@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+%26+mobile+apps+🚀;Flutter+%7C+React.js+%7C+Node.js+%7C+Gemini+AI;Turning+coffee+into+clean+code+☕;Open+to+Software+Engineer+Internships!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+scalable+web+%26+mobile+apps+%F0%9F%9A%80;Flutter+%7C+React.js+%7C+Node.js+%7C+Gemini+AI;Turning+coffee+into+clean+code+%E2%98%95;Open+to+Software+Engineer+Internships!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -195,10 +195,10 @@ Next-generation AI conversation platform powered by Gemini AI. Features a beauti
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=AlishbaIqbal123&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
+        <img src="https://github-stats-extended.vercel.app/api?username=AlishbaIqbal123&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIqbal123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlishbaIqbal123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350" />
       </td>
     </tr>
   </table>
@@ -217,3 +217,4 @@ Next-generation AI conversation platform powered by Gemini AI. Features a beauti
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AlishbaIqbal123/AlishbaIqbal123/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
+
