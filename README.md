@@ -1,5 +1,72 @@
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAxNDAwIDMyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGRlZnM+CjxsaW5lYXJHcmFkaWVudCBpZD0iYmctMTEiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwYjEzMmIiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ic3RvcC1jb2xvciIgdmFsdWVzPSIjMGIxMzJiOyMxYzI1NDE7IzBiMTMyYiIgZHVyPSI4cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3N0b3A+CiAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMxYzI1NDEiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ic3RvcC1jb2xvciIgdmFsdWVzPSIjMWMyNTQxOyMzYTUwNmI7IzFjMjU0MSIgZHVyPSI4cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3N0b3A+CiAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjM2E1MDZiIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzNhNTA2YjsjMGIxMzJiOyMzYTUwNmIiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgo8L2xpbmVhckdyYWRpZW50Pgo8cmFkaWFsR3JhZGllbnQgaWQ9ImJ1YmJsZS1ncmFkLTExIiBjeD0iMzUlIiBjeT0iMzAlIiByPSI3MCUiPgogICAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC41NSIvPgogICAgICAgIDxzdG9wIG9mZnNldD0iNDUlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMTgiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC4wMyIvPgo8L3JhZGlhbEdyYWRpZW50Pgo8ZmlsdGVyIGlkPSJzb2Z0LTExIiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj48ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIxLjIiLz48L2ZpbHRlcj4KPC9kZWZzPgo8cmVjdCB3aWR0aD0iMTQwMCIgaGVpZ2h0PSIzMjAiIGZpbGw9InVybCgjYmctMTEpIi8+CjwhLS0gRmxvYXRpbmcgYnViYmxlcyAodHJhbnNsYXRlZCBwb3NpdGlvbnMgbWF0Y2hpbmcgb3JpZ2luYWwgbGF5b3V0KSAtLT4KPGcgb3BhY2l0eT0iMC4xNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjQwLjYiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTEpIiBmaWx0ZXI9InVybCgjc29mdC0xMSkiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI3ODMuNywzNDcuNDsgODE2LjMsLTY4LjY7IDc4My43LC00ODQuNiIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iOS43cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjIzIj4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iNTAuMyIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMSkiIGZpbHRlcj0idXJsKCNzb2Z0LTExKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjExMTAuMiwxMjEuNjsgMTE0OS41LC0yOTQuNDsgMTExMC4yLC03MTAuNCIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iOC40cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjIwIj4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iNjkuNCIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMSkiIGZpbHRlcj0idXJsKCNzb2Z0LTExKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjEzNTAuNywyNzMuOTsgMTM2Ni4xLC0xNDIuMTsgMTM1MC43LC01NTguMSIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTAuOXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yMCI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjI2LjMiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTEpIiBmaWx0ZXI9InVybCgjc29mdC0xMSkiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIzMzguNywxMDQuMjsgMzc5LjAsLTMxMS44OyAzMzguNywtNzI3LjgiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjkuN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjQzLjIiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTEpIiBmaWx0ZXI9InVybCgjc29mdC0xMSkiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5MjcuNCwyMjAuNDsgOTcyLjMsLTE5NS41OyA5MjcuNCwtNjExLjYiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjguMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNiI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjMzLjIiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTEpIiBmaWx0ZXI9InVybCgjc29mdC0xMSkiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIzMjEuNSwxNzQuNjsgMzQ4LjUsLTI0MS40OyAzMjEuNSwtNjU3LjQiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjYuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yOCI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjY4LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTEpIiBmaWx0ZXI9InVybCgjc29mdC0xMSkiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIxMTg2LjIsOTYuMTsgMTIxNS4zLC0zMTkuOTsgMTE4Ni4yLC03MzUuOSIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iNy43cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjI3Ij4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMjAuMCIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMSkiIGZpbHRlcj0idXJsKCNzb2Z0LTExKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9Ijg4MS4yLDMwNy44OyA5MDYuMiwtMTA4LjI7IDg4MS4yLC01MjQuMiIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iOC4ycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8IS0tIFNwYXJrbGVzIC0tPgo8Y2lyY2xlIGN4PSIxMDA4LjUiIGN5PSIyMi4wIiByPSIyLjciIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuMjAiPgogIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4wNjswLjIwOzAuMDYiIGR1cj0iMy43cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9jaXJjbGU+CjxjaXJjbGUgY3g9IjM5Mi4zIiBjeT0iMjkzLjYiIHI9IjQuNSIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC4xOSI+CiAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjA2OzAuMTk7MC4wNiIgZHVyPSIyLjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2NpcmNsZT4KPGNpcmNsZSBjeD0iODQuNiIgY3k9IjU2LjQiIHI9IjMuOCIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC4yMiI+CiAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjA3OzAuMjI7MC4wNyIgZHVyPSIzLjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2NpcmNsZT4KPCEtLSBUZXh0IEVsZW1lbnRzIC0tPgo8dGV4dCB4PSI1MCUiIHk9IjEzNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBWZXJkYW5hLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjUyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmZmZmIiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6MXB4Ij5IaSwgSSdtIEFsaXNoYmEgSXFiYWwg4pqhPC90ZXh0Pgo8dGV4dCB4PSI1MCUiIHk9IjE4MSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBWZXJkYW5hLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNDAwIiBmaWxsPSIjZjBmMGZmY2MiPlNvZnR3YXJlIEVuZ2luZWVyIOKAoiBGdWxsIFN0YWNrIERldmVsb3BlciDigKIgRmx1dHRlciAmYW1wOyBBSSBFbnRodXNpYXN0PC90ZXh0Pgo8L3N2Zz4=" width="100%" alt="header"/>
+<svg width="100%" viewBox="0 0 1400 320" xmlns="http://www.w3.org/2000/svg" style="border-radius: 8px; overflow: hidden;">
+<defs>
+<linearGradient id="bg-11" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#5B2A86">
+    <animate attributeName="stop-color" values="#5B2A86;#6C63FF;#5B2A86" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="50%" stop-color="#6C63FF">
+    <animate attributeName="stop-color" values="#6C63FF;#00C9A7;#6C63FF" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="100%" stop-color="#00C9A7">
+    <animate attributeName="stop-color" values="#00C9A7;#5B2A86;#00C9A7" dur="8s" repeatCount="indefinite"/>
+  </stop>
+</linearGradient>
+<radialGradient id="bubble-grad-11" cx="35%" cy="30%" r="70%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+        <stop offset="45%" stop-color="#ffffff" stop-opacity="0.18"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+</radialGradient>
+<filter id="soft-11" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg-11)"/>
+<!-- Floating bubbles -->
+<g opacity="0.15">
+  <circle cx="0" cy="0" r="40.6" fill="url(#bubble-grad-11)" filter="url(#soft-11)"/>
+  <animateTransform attributeName="transform" type="translate" values="783.7,347.4; 816.3,-68.6; 783.7,-484.6" keyTimes="0;0.5;1" dur="9.7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.23">
+  <circle cx="0" cy="0" r="50.3" fill="url(#bubble-grad-11)" filter="url(#soft-11)"/>
+  <animateTransform attributeName="transform" type="translate" values="1110.2,121.6; 1149.5,-294.4; 1110.2,-710.4" keyTimes="0;0.5;1" dur="8.4s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.20">
+  <circle cx="0" cy="0" r="69.4" fill="url(#bubble-grad-11)" filter="url(#soft-11)"/>
+  <animateTransform attributeName="transform" type="translate" values="1350.7,273.9; 1366.1,-142.1; 1350.7,-558.1" keyTimes="0;0.5;1" dur="10.9s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.20">
+  <circle cx="0" cy="0" r="26.3" fill="url(#bubble-grad-11)" filter="url(#soft-11)"/>
+  <animateTransform attributeName="transform" type="translate" values="338.7,104.2; 379.0,-311.8; 338.7,-727.8" keyTimes="0;0.5;1" dur="9.7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.25">
+  <circle cx="0" cy="0" r="43.2" fill="url(#bubble-grad-11)" filter="url(#soft-11)"/>
+  <animateTransform attributeName="transform" type="translate" values="927.4,220.4; 972.3,-195.5; 927.4,-611.6" keyTimes="0;0.5;1" dur="8.2s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.26">
+  <circle cx="0" cy="0" r="33.2" fill="url(#bubble-grad-11)" filter="url(#soft-11)"/>
+  <animateTransform attributeName="transform" type="translate" values="321.5,174.6; 348.5,-241.4; 321.5,-657.4" keyTimes="0;0.5;1" dur="6.6s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.28">
+  <circle cx="0" cy="0" r="68.1" fill="url(#bubble-grad-11)" filter="url(#soft-11)"/>
+  <animateTransform attributeName="transform" type="translate" values="1186.2,96.1; 1215.3,-319.9; 1186.2,-735.9" keyTimes="0;0.5;1" dur="7.7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.27">
+  <circle cx="0" cy="0" r="20.0" fill="url(#bubble-grad-11)" filter="url(#soft-11)"/>
+  <animateTransform attributeName="transform" type="translate" values="881.2,307.8; 906.2,-108.2; 881.2,-524.2" keyTimes="0;0.5;1" dur="8.2s" repeatCount="indefinite"/>
+</g>
+<!-- Sparkles -->
+<circle cx="1008.5" cy="22.0" r="2.7" fill="#ffffff" opacity="0.20">
+  <animate attributeName="opacity" values="0.06;0.20;0.06" dur="3.7s" repeatCount="indefinite"/>
+</circle>
+<circle cx="392.3" cy="293.6" r="4.5" fill="#ffffff" opacity="0.19">
+  <animate attributeName="opacity" values="0.06;0.19;0.06" dur="2.0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="84.6" cy="56.4" r="3.8" fill="#ffffff" opacity="0.22">
+  <animate attributeName="opacity" values="0.07;0.22;0.07" dur="3.7s" repeatCount="indefinite"/>
+</circle>
+<!-- Text Elements -->
+<text x="50%" y="134" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="52" font-weight="700" fill="#ffffff" style="letter-spacing:1px">Hi, I'm Alishba Iqbal ⚡</text>
+<text x="50%" y="181" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="20" font-weight="400" fill="#f0f0ffcc">Software Engineer • Full Stack Developer • Flutter &amp; AI Enthusiast</text>
+</svg>
 </div>
 
 <div align="center">
@@ -21,7 +88,48 @@
 
 </div>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNmM2M2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzZjNjNmZjsjOGU3Y2ZmOyM2YzYzZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGU3Y2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzhlN2NmZjsjMDBjOWE3OyM4ZTdjZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwYzlhNyI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiMwMGM5YTc7IzZjNjNmZjsjMDBjOWE3IiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMiIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMiIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTIpIi8+CjxnIG9wYWNpdHk9IjAuMTYiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI5LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5MjAuNSw2MC43OyA5NDYuNywtMzAuMzsgOTIwLjUsLTEyMS4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxMS43IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEyKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTIpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iODQyLjAsNTQuMjsgODcwLjIsLTM2Ljg7IDg0Mi4wLC0xMjcuOCIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTEuM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjQuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMikiIGZpbHRlcj0idXJsKCNzb2Z0LTEyKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjExNDYuMywyNS40OyAxMTczLjUsLTY1LjY7IDExNDYuMywtMTU2LjYiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjExLjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI0LjIiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIxMjgxLjAsNTEuMzsgMTMyNC40LC0zOS43OyAxMjgxLjAsLTEzMC43IiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI2LjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI1LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI0MzcuNiw1OC4wOyA0NTQuMSwtMzMuMDsgNDM3LjYsLTEyNC4wIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+Cjwvc3ZnPg==" width="100%" alt="divider"/>
+<svg width="100%" viewBox="0 0 1400 70" xmlns="http://www.w3.org/2000/svg" style="border-radius: 4px; overflow: hidden;">
+<defs>
+<linearGradient id="bg-12" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#6c63ff">
+    <animate attributeName="stop-color" values="#6c63ff;#8e7cff;#6c63ff" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="50%" stop-color="#8e7cff">
+    <animate attributeName="stop-color" values="#8e7cff;#00c9a7;#8e7cff" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="100%" stop-color="#00c9a7">
+    <animate attributeName="stop-color" values="#00c9a7;#6c63ff;#00c9a7" dur="8s" repeatCount="indefinite"/>
+  </stop>
+</linearGradient>
+<radialGradient id="bubble-grad-12" cx="35%" cy="30%" r="70%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+        <stop offset="45%" stop-color="#ffffff" stop-opacity="0.18"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+</radialGradient>
+<filter id="soft-12" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg-12)"/>
+<g opacity="0.16">
+  <circle cx="0" cy="0" r="9.1" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="920.5,60.7; 946.7,-30.3; 920.5,-121.3" keyTimes="0;0.5;1" dur="7.1s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.15">
+  <circle cx="0" cy="0" r="11.7" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="842.0,54.2; 870.2,-36.8; 842.0,-127.8" keyTimes="0;0.5;1" dur="11.3s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.25">
+  <circle cx="0" cy="0" r="4.2" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="1146.3,25.4; 1173.5,-65.6; 1146.3,-156.6" keyTimes="0;0.5;1" dur="11.5s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.14">
+  <circle cx="0" cy="0" r="4.2" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="1281.0,51.3; 1324.4,-39.7; 1281.0,-130.7" keyTimes="0;0.5;1" dur="6.7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.15">
+  <circle cx="0" cy="0" r="5.1" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="437.6,58.0; 454.1,-33.0; 437.6,-124.0" keyTimes="0;0.5;1" dur="7.3s" repeatCount="indefinite"/>
+</g>
+</svg>
 
 ## 🙋‍♀️ About Me
 
@@ -37,7 +145,48 @@ fun_fact: "I debug faster with chai in hand ☕"
 
 > 🚀 I love turning ideas into **scalable, user-focused products** — from AI resume analyzers to offline-first mobile apps.
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNmM2M2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzZjNjNmZjsjOGU3Y2ZmOyM2YzYzZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGU3Y2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzhlN2NmZjsjMDBjOWE3OyM4ZTdjZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwYzlhNyI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiMwMGM5YTc7IzZjNjNmZjsjMDBjOWE3IiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMiIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMiIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTIpIi8+CjxnIG9wYWNpdHk9IjAuMTYiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI5LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5MjAuNSw2MC43OyA5NDYuNywtMzAuMzsgOTIwLjUsLTEyMS4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxMS43IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEyKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTIpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iODQyLjAsNTQuMjsgODcwLjIsLTM2Ljg7IDg0Mi4wLC0xMjcuOCIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTEuM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjQuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMikiIGZpbHRlcj0idXJsKCNzb2Z0LTEyKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjExNDYuMywyNS40OyAxMTczLjUsLTY1LjY7IDExNDYuMywtMTU2LjYiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjExLjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI0LjIiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIxMjgxLjAsNTEuMzsgMTMyNC40LC0zOS43OyAxMjgxLjAsLTEzMC43IiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI2LjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI1LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI0MzcuNiw1OC4wOyA0NTQuMSwtMzMuMDsgNDM3LjYsLTEyNC4wIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+Cjwvc3ZnPg==" width="100%" alt="divider"/>
+<svg width="100%" viewBox="0 0 1400 70" xmlns="http://www.w3.org/2000/svg" style="border-radius: 4px; overflow: hidden;">
+<defs>
+<linearGradient id="bg-12" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#6c63ff">
+    <animate attributeName="stop-color" values="#6c63ff;#8e7cff;#6c63ff" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="50%" stop-color="#8e7cff">
+    <animate attributeName="stop-color" values="#8e7cff;#00c9a7;#8e7cff" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="100%" stop-color="#00c9a7">
+    <animate attributeName="stop-color" values="#00c9a7;#6c63ff;#00c9a7" dur="8s" repeatCount="indefinite"/>
+  </stop>
+</linearGradient>
+<radialGradient id="bubble-grad-12" cx="35%" cy="30%" r="70%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+        <stop offset="45%" stop-color="#ffffff" stop-opacity="0.18"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+</radialGradient>
+<filter id="soft-12" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg-12)"/>
+<g opacity="0.16">
+  <circle cx="0" cy="0" r="9.1" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="920.5,60.7; 946.7,-30.3; 920.5,-121.3" keyTimes="0;0.5;1" dur="7.1s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.15">
+  <circle cx="0" cy="0" r="11.7" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="842.0,54.2; 870.2,-36.8; 842.0,-127.8" keyTimes="0;0.5;1" dur="11.3s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.25">
+  <circle cx="0" cy="0" r="4.2" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="1146.3,25.4; 1173.5,-65.6; 1146.3,-156.6" keyTimes="0;0.5;1" dur="11.5s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.14">
+  <circle cx="0" cy="0" r="4.2" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="1281.0,51.3; 1324.4,-39.7; 1281.0,-130.7" keyTimes="0;0.5;1" dur="6.7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.15">
+  <circle cx="0" cy="0" r="5.1" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="437.6,58.0; 454.1,-33.0; 437.6,-124.0" keyTimes="0;0.5;1" dur="7.3s" repeatCount="indefinite"/>
+</g>
+</svg>
 
 ## 🎓 Education
 
@@ -50,7 +199,48 @@ fun_fact: "I debug faster with chai in hand ☕"
 
 </div>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNmM2M2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzZjNjNmZjsjOGU3Y2ZmOyM2YzYzZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGU3Y2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzhlN2NmZjsjMDBjOWE3OyM4ZTdjZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwYzlhNyI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiMwMGM5YTc7IzZjNjNmZjsjMDBjOWE3IiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMiIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMiIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTIpIi8+CjxnIG9wYWNpdHk9IjAuMTYiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI5LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5MjAuNSw2MC43OyA5NDYuNywtMzAuMzsgOTIwLjUsLTEyMS4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxMS43IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEyKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTIpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iODQyLjAsNTQuMjsgODcwLjIsLTM2Ljg7IDg0Mi4wLC0xMjcuOCIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTEuM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjQuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMikiIGZpbHRlcj0idXJsKCNzb2Z0LTEyKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjExNDYuMywyNS40OyAxMTczLjUsLTY1LjY7IDExNDYuMywtMTU2LjYiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjExLjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI0LjIiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIxMjgxLjAsNTEuMzsgMTMyNC40LC0zOS43OyAxMjgxLjAsLTEzMC43IiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI2LjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI1LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI0MzcuNiw1OC4wOyA0NTQuMSwtMzMuMDsgNDM3LjYsLTEyNC4wIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+Cjwvc3ZnPg==" width="100%" alt="divider"/>
+<svg width="100%" viewBox="0 0 1400 70" xmlns="http://www.w3.org/2000/svg" style="border-radius: 4px; overflow: hidden;">
+<defs>
+<linearGradient id="bg-12" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#6c63ff">
+    <animate attributeName="stop-color" values="#6c63ff;#8e7cff;#6c63ff" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="50%" stop-color="#8e7cff">
+    <animate attributeName="stop-color" values="#8e7cff;#00c9a7;#8e7cff" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="100%" stop-color="#00c9a7">
+    <animate attributeName="stop-color" values="#00c9a7;#6c63ff;#00c9a7" dur="8s" repeatCount="indefinite"/>
+  </stop>
+</linearGradient>
+<radialGradient id="bubble-grad-12" cx="35%" cy="30%" r="70%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+        <stop offset="45%" stop-color="#ffffff" stop-opacity="0.18"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+</radialGradient>
+<filter id="soft-12" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg-12)"/>
+<g opacity="0.16">
+  <circle cx="0" cy="0" r="9.1" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="920.5,60.7; 946.7,-30.3; 920.5,-121.3" keyTimes="0;0.5;1" dur="7.1s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.15">
+  <circle cx="0" cy="0" r="11.7" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="842.0,54.2; 870.2,-36.8; 842.0,-127.8" keyTimes="0;0.5;1" dur="11.3s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.25">
+  <circle cx="0" cy="0" r="4.2" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="1146.3,25.4; 1173.5,-65.6; 1146.3,-156.6" keyTimes="0;0.5;1" dur="11.5s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.14">
+  <circle cx="0" cy="0" r="4.2" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="1281.0,51.3; 1324.4,-39.7; 1281.0,-130.7" keyTimes="0;0.5;1" dur="6.7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.15">
+  <circle cx="0" cy="0" r="5.1" fill="url(#bubble-grad-12)" filter="url(#soft-12)"/>
+  <animateTransform attributeName="transform" type="translate" values="437.6,58.0; 454.1,-33.0; 437.6,-124.0" keyTimes="0;0.5;1" dur="7.3s" repeatCount="indefinite"/>
+</g>
+</svg>
 
 ## 🛠️ Tech Stack
 
@@ -80,7 +270,48 @@ fun_fact: "I debug faster with chai in hand ☕"
 
 </div>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEzIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDBjOWE3Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzAwYzlhNzsjNWZkNmM0OyMwMGM5YTciIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjNWZkNmM0Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzVmZDZjNDsjNmM2M2ZmOyM1ZmQ2YzQiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzZjNjNmZiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiM2YzYzZmY7IzAwYzlhNzsjNmM2M2ZmIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMyIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTMpIi8+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI2LjYiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTMpIiBmaWx0ZXI9InVybCgjc29mdC0xMykiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5NTkuNCw2MS43OyA5ODEuMywtMjkuMzsgOTU5LjQsLTEyMC4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSIxMi44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjI1Ij4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMTIuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjE4Mi4zLDUyLjY7IDIxMC4yLC0zOC40OyAxODIuMywtMTI5LjQiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjcuN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjMuNyIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjM4Ni4yLDI5Ljc7IDQyNS40LC02MS4zOyAzODYuMiwtMTUyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjEzLjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMjEiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxNC44IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEzKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTMpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iMTExMS4zLDM2LjM7IDExNDguOSwtNTQuNzsgMTExMS4zLC0xNDUuNyIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTIuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yOCI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjcuOCIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjYwMS44LDM5Ljc7IDY0MC43LC01MS4zOyA2MDEuOCwtMTQyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjYuOXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPC9zdmc+" width="100%" alt="divider"/>
+<svg width="100%" viewBox="0 0 1400 70" xmlns="http://www.w3.org/2000/svg" style="border-radius: 4px; overflow: hidden;">
+<defs>
+<linearGradient id="bg-13" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#00c9a7">
+    <animate attributeName="stop-color" values="#00c9a7;#5fd6c4;#00c9a7" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="50%" stop-color="#5fd6c4">
+    <animate attributeName="stop-color" values="#5fd6c4;#6c63ff;#5fd6c4" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="100%" stop-color="#6c63ff">
+    <animate attributeName="stop-color" values="#6c63ff;#00c9a7;#6c63ff" dur="8s" repeatCount="indefinite"/>
+  </stop>
+</linearGradient>
+<radialGradient id="bubble-grad-13" cx="35%" cy="30%" r="70%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+        <stop offset="45%" stop-color="#ffffff" stop-opacity="0.18"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+</radialGradient>
+<filter id="soft-13" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg-13)"/>
+<g opacity="0.14">
+  <circle cx="0" cy="0" r="6.6" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="959.4,61.7; 981.3,-29.3; 959.4,-120.3" keyTimes="0;0.5;1" dur="12.8s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.25">
+  <circle cx="0" cy="0" r="12.2" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="182.3,52.6; 210.2,-38.4; 182.3,-129.4" keyTimes="0;0.5;1" dur="7.7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.25">
+  <circle cx="0" cy="0" r="3.7" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="386.2,29.7; 425.4,-61.3; 386.2,-152.3" keyTimes="0;0.5;1" dur="13.0s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.21">
+  <circle cx="0" cy="0" r="14.8" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="1111.3,36.3; 1148.9,-54.7; 1111.3,-145.7" keyTimes="0;0.5;1" dur="12.8s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.28">
+  <circle cx="0" cy="0" r="7.8" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="601.8,39.7; 640.7,-51.3; 601.8,-142.3" keyTimes="0;0.5;1" dur="6.9s" repeatCount="indefinite"/>
+</g>
+</svg>
 
 ## 💼 Experience & Internships
 
@@ -132,7 +363,48 @@ Expanded production-level capabilities across 7+ tasks, including an AI-powered 
 
 
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEzIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDBjOWE3Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzAwYzlhNzsjNWZkNmM0OyMwMGM5YTciIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjNWZkNmM0Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzVmZDZjNDsjNmM2M2ZmOyM1ZmQ2YzQiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzZjNjNmZiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiM2YzYzZmY7IzAwYzlhNzsjNmM2M2ZmIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMyIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTMpIi8+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI2LjYiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTMpIiBmaWx0ZXI9InVybCgjc29mdC0xMykiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5NTkuNCw2MS43OyA5ODEuMywtMjkuMzsgOTU5LjQsLTEyMC4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSIxMi44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjI1Ij4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMTIuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjE4Mi4zLDUyLjY7IDIxMC4yLC0zOC40OyAxODIuMywtMTI5LjQiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjcuN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjMuNyIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjM4Ni4yLDI5Ljc7IDQyNS40LC02MS4zOyAzODYuMiwtMTUyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjEzLjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMjEiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxNC44IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEzKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTMpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iMTExMS4zLDM2LjM7IDExNDguOSwtNTQuNzsgMTExMS4zLC0xNDUuNyIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTIuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yOCI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjcuOCIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjYwMS44LDM5Ljc7IDY0MC43LC01MS4zOyA2MDEuOCwtMTQyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjYuOXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPC9zdmc+" width="100%" alt="divider"/>
+<svg width="100%" viewBox="0 0 1400 70" xmlns="http://www.w3.org/2000/svg" style="border-radius: 4px; overflow: hidden;">
+<defs>
+<linearGradient id="bg-13" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#00c9a7">
+    <animate attributeName="stop-color" values="#00c9a7;#5fd6c4;#00c9a7" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="50%" stop-color="#5fd6c4">
+    <animate attributeName="stop-color" values="#5fd6c4;#6c63ff;#5fd6c4" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="100%" stop-color="#6c63ff">
+    <animate attributeName="stop-color" values="#6c63ff;#00c9a7;#6c63ff" dur="8s" repeatCount="indefinite"/>
+  </stop>
+</linearGradient>
+<radialGradient id="bubble-grad-13" cx="35%" cy="30%" r="70%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+        <stop offset="45%" stop-color="#ffffff" stop-opacity="0.18"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+</radialGradient>
+<filter id="soft-13" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg-13)"/>
+<g opacity="0.14">
+  <circle cx="0" cy="0" r="6.6" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="959.4,61.7; 981.3,-29.3; 959.4,-120.3" keyTimes="0;0.5;1" dur="12.8s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.25">
+  <circle cx="0" cy="0" r="12.2" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="182.3,52.6; 210.2,-38.4; 182.3,-129.4" keyTimes="0;0.5;1" dur="7.7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.25">
+  <circle cx="0" cy="0" r="3.7" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="386.2,29.7; 425.4,-61.3; 386.2,-152.3" keyTimes="0;0.5;1" dur="13.0s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.21">
+  <circle cx="0" cy="0" r="14.8" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="1111.3,36.3; 1148.9,-54.7; 1111.3,-145.7" keyTimes="0;0.5;1" dur="12.8s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.28">
+  <circle cx="0" cy="0" r="7.8" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="601.8,39.7; 640.7,-51.3; 601.8,-142.3" keyTimes="0;0.5;1" dur="6.9s" repeatCount="indefinite"/>
+</g>
+</svg>
 
 ## 🚀 Featured Projects
 
@@ -187,7 +459,48 @@ Next-generation AI conversation platform powered by Gemini AI. Features a beauti
 
 
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEzIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDBjOWE3Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzAwYzlhNzsjNWZkNmM0OyMwMGM5YTciIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjNWZkNmM0Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzVmZDZjNDsjNmM2M2ZmOyM1ZmQ2YzQiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzZjNjNmZiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiM2YzYzZmY7IzAwYzlhNzsjNmM2M2ZmIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMyIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTMpIi8+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI2LjYiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTMpIiBmaWx0ZXI9InVybCgjc29mdC0xMykiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5NTkuNCw2MS43OyA5ODEuMywtMjkuMzsgOTU5LjQsLTEyMC4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSIxMi44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjI1Ij4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMTIuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjE4Mi4zLDUyLjY7IDIxMC4yLC0zOC40OyAxODIuMywtMTI5LjQiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjcuN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjMuNyIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjM4Ni4yLDI5Ljc7IDQyNS40LC02MS4zOyAzODYuMiwtMTUyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjEzLjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMjEiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxNC44IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEzKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTMpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iMTExMS4zLDM2LjM7IDExNDguOSwtNTQuNzsgMTExMS4zLC0xNDUuNyIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTIuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yOCI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjcuOCIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjYwMS44LDM5Ljc7IDY0MC43LC01MS4zOyA2MDEuOCwtMTQyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjYuOXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPC9zdmc+" width="100%" alt="divider"/>
+<svg width="100%" viewBox="0 0 1400 70" xmlns="http://www.w3.org/2000/svg" style="border-radius: 4px; overflow: hidden;">
+<defs>
+<linearGradient id="bg-13" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#00c9a7">
+    <animate attributeName="stop-color" values="#00c9a7;#5fd6c4;#00c9a7" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="50%" stop-color="#5fd6c4">
+    <animate attributeName="stop-color" values="#5fd6c4;#6c63ff;#5fd6c4" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="100%" stop-color="#6c63ff">
+    <animate attributeName="stop-color" values="#6c63ff;#00c9a7;#6c63ff" dur="8s" repeatCount="indefinite"/>
+  </stop>
+</linearGradient>
+<radialGradient id="bubble-grad-13" cx="35%" cy="30%" r="70%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+        <stop offset="45%" stop-color="#ffffff" stop-opacity="0.18"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+</radialGradient>
+<filter id="soft-13" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg-13)"/>
+<g opacity="0.14">
+  <circle cx="0" cy="0" r="6.6" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="959.4,61.7; 981.3,-29.3; 959.4,-120.3" keyTimes="0;0.5;1" dur="12.8s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.25">
+  <circle cx="0" cy="0" r="12.2" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="182.3,52.6; 210.2,-38.4; 182.3,-129.4" keyTimes="0;0.5;1" dur="7.7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.25">
+  <circle cx="0" cy="0" r="3.7" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="386.2,29.7; 425.4,-61.3; 386.2,-152.3" keyTimes="0;0.5;1" dur="13.0s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.21">
+  <circle cx="0" cy="0" r="14.8" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="1111.3,36.3; 1148.9,-54.7; 1111.3,-145.7" keyTimes="0;0.5;1" dur="12.8s" repeatCount="indefinite"/>
+</g>
+<g opacity="0.28">
+  <circle cx="0" cy="0" r="7.8" fill="url(#bubble-grad-13)" filter="url(#soft-13)"/>
+  <animateTransform attributeName="transform" type="translate" values="601.8,39.7; 640.7,-51.3; 601.8,-142.3" keyTimes="0;0.5;1" dur="6.9s" repeatCount="indefinite"/>
+</g>
+</svg>
 
 ## 📊 GitHub Metrics & Activity
 
@@ -195,10 +508,10 @@ Next-generation AI conversation platform powered by Gemini AI. Features a beauti
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AlishbaIqbal123&show_icons=true&theme=midnight-purple&title_color=6C63FF&text_color=ffffff&icon_color=00C9A7&bg_color=0b132b&hide_border=true" alt="GitHub Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AlishbaIqbal123&show_icons=true&title_color=6C63FF&text_color=ffffff&icon_color=00C9A7&bg_color=0b132b&hide_border=true" alt="GitHub Stats" width="400" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIqbal123&layout=compact&theme=midnight-purple&title_color=6C63FF&text_color=ffffff&bg_color=0b132b&hide_border=true" alt="Top Languages" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIqbal123&layout=compact&title_color=6C63FF&text_color=ffffff&bg_color=0b132b&hide_border=true" alt="Top Languages" width="350" />
       </td>
     </tr>
   </table>
