@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Alishba%20Iqbal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAxNDAwIDMyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGRlZnM+CjxsaW5lYXJHcmFkaWVudCBpZD0iYmctMTEiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwYjEzMmIiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ic3RvcC1jb2xvciIgdmFsdWVzPSIjMGIxMzJiOyMxYzI1NDE7IzBiMTMyYiIgZHVyPSI4cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3N0b3A+CiAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMxYzI1NDEiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ic3RvcC1jb2xvciIgdmFsdWVzPSIjMWMyNTQxOyMzYTUwNmI7IzFjMjU0MSIgZHVyPSI4cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3N0b3A+CiAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjM2E1MDZiIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzNhNTA2YjsjMGIxMzJiOyMzYTUwNmIiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgo8L2xpbmVhckdyYWRpZW50Pgo8cmFkaWFsR3JhZGllbnQgaWQ9ImJ1YmJsZS1ncmFkLTExIiBjeD0iMzUlIiBjeT0iMzAlIiByPSI3MCUiPgogICAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC41NSIvPgogICAgICAgIDxzdG9wIG9mZnNldD0iNDUlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMTgiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC4wMyIvPgo8L3JhZGlhbEdyYWRpZW50Pgo8ZmlsdGVyIGlkPSJzb2Z0LTExIiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj48ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIxLjIiLz48L2ZpbHRlcj4KPC9kZWZzPgo8cmVjdCB3aWR0aD0iMTQwMCIgaGVpZ2h0PSIzMjAiIGZpbGw9InVybCgjYmctMTEpIi8+CjwhLS0gRmxvYXRpbmcgYnViYmxlcyAodHJhbnNsYXRlZCBwb3NpdGlvbnMgbWF0Y2hpbmcgb3JpZ2luYWwgbGF5b3V0KSAtLT4KPGcgb3BhY2l0eT0iMC4xNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjQwLjYiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTEpIiBmaWx0ZXI9InVybCgjc29mdC0xMSkiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI3ODMuNywzNDcuNDsgODE2LjMsLTY4LjY7IDc4My43LC00ODQuNiIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iOS43cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjIzIj4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iNTAuMyIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMSkiIGZpbHRlcj0idXJsKCNzb2Z0LTExKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjExMTAuMiwxMjEuNjsgMTE0OS41LC0yOTQuNDsgMTExMC4yLC03MTAuNCIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iOC40cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjIwIj4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iNjkuNCIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMSkiIGZpbHRlcj0idXJsKCNzb2Z0LTExKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjEzNTAuNywyNzMuOTsgMTM2Ni4xLC0xNDIuMTsgMTM1MC43LC01NTguMSIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTAuOXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yMCI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjI2LjMiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTEpIiBmaWx0ZXI9InVybCgjc29mdC0xMSkiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIzMzguNywxMDQuMjsgMzc5LjAsLTMxMS44OyAzMzguNywtNzI3LjgiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjkuN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjQzLjIiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTEpIiBmaWx0ZXI9InVybCgjc29mdC0xMSkiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5MjcuNCwyMjAuNDsgOTcyLjMsLTE5NS41OyA5MjcuNCwtNjExLjYiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjguMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNiI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjMzLjIiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTEpIiBmaWx0ZXI9InVybCgjc29mdC0xMSkiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIzMjEuNSwxNzQuNjsgMzQ4LjUsLTI0MS40OyAzMjEuNSwtNjU3LjQiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjYuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yOCI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjY4LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTEpIiBmaWx0ZXI9InVybCgjc29mdC0xMSkiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIxMTg2LjIsOTYuMTsgMTIxNS4zLC0zMTkuOTsgMTE4Ni4yLC03MzUuOSIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iNy43cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjI3Ij4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMjAuMCIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMSkiIGZpbHRlcj0idXJsKCNzb2Z0LTExKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9Ijg4MS4yLDMwNy44OyA5MDYuMiwtMTA4LjI7IDg4MS4yLC01MjQuMiIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iOC4ycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8IS0tIFNwYXJrbGVzIC0tPgo8Y2lyY2xlIGN4PSIxMDA4LjUiIGN5PSIyMi4wIiByPSIyLjciIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuMjAiPgogIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4wNjswLjIwOzAuMDYiIGR1cj0iMy43cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9jaXJjbGU+CjxjaXJjbGUgY3g9IjM5Mi4zIiBjeT0iMjkzLjYiIHI9IjQuNSIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC4xOSI+CiAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjA2OzAuMTk7MC4wNiIgZHVyPSIyLjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2NpcmNsZT4KPGNpcmNsZSBjeD0iODQuNiIgY3k9IjU2LjQiIHI9IjMuOCIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC4yMiI+CiAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjA3OzAuMjI7MC4wNyIgZHVyPSIzLjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2NpcmNsZT4KPCEtLSBUZXh0IEVsZW1lbnRzIC0tPgo8dGV4dCB4PSI1MCUiIHk9IjEzNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBWZXJkYW5hLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjUyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmZmZmIiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6MXB4Ij5IaSwgSSdtIEFsaXNoYmEgSXFiYWwg4pqhPC90ZXh0Pgo8dGV4dCB4PSI1MCUiIHk9IjE4MSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBWZXJkYW5hLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNDAwIiBmaWxsPSIjZjBmMGZmY2MiPlNvZnR3YXJlIEVuZ2luZWVyIOKAoiBGdWxsIFN0YWNrIERldmVsb3BlciDigKIgRmx1dHRlciAmYW1wOyBBSSBFbnRodXNpYXN0PC90ZXh0Pgo8L3N2Zz4=" width="100%" alt="header"/>
 </div>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+%26+mobile+apps;Full-stack+developer+%7C+Flutter+%7C+AI+enthusiast;Turning+ideas+into+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+%26+mobile+apps+🚀;Flutter+%7C+React.js+%7C+Node.js+%7C+Gemini+AI;Turning+coffee+into+clean+code+☕;Open+to+Software+Engineer+Internships!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -21,6 +21,8 @@
 
 </div>
 
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNmM2M2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzZjNjNmZjsjOGU3Y2ZmOyM2YzYzZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGU3Y2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzhlN2NmZjsjMDBjOWE3OyM4ZTdjZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwYzlhNyI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiMwMGM5YTc7IzZjNjNmZjsjMDBjOWE3IiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMiIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMiIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTIpIi8+CjxnIG9wYWNpdHk9IjAuMTYiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI5LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5MjAuNSw2MC43OyA5NDYuNywtMzAuMzsgOTIwLjUsLTEyMS4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxMS43IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEyKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTIpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iODQyLjAsNTQuMjsgODcwLjIsLTM2Ljg7IDg0Mi4wLC0xMjcuOCIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTEuM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjQuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMikiIGZpbHRlcj0idXJsKCNzb2Z0LTEyKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjExNDYuMywyNS40OyAxMTczLjUsLTY1LjY7IDExNDYuMywtMTU2LjYiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjExLjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI0LjIiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIxMjgxLjAsNTEuMzsgMTMyNC40LC0zOS43OyAxMjgxLjAsLTEzMC43IiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI2LjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI1LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI0MzcuNiw1OC4wOyA0NTQuMSwtMzMuMDsgNDM3LjYsLTEyNC4wIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+Cjwvc3ZnPg==" width="100%" alt="divider"/>
+
 ## 🙋‍♀️ About Me
 
 ```yaml
@@ -35,11 +37,20 @@ fun_fact: "I debug faster with chai in hand ☕"
 
 > 🚀 I love turning ideas into **scalable, user-focused products** — from AI resume analyzers to offline-first mobile apps.
 
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNmM2M2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzZjNjNmZjsjOGU3Y2ZmOyM2YzYzZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGU3Y2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzhlN2NmZjsjMDBjOWE3OyM4ZTdjZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwYzlhNyI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiMwMGM5YTc7IzZjNjNmZjsjMDBjOWE3IiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMiIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMiIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTIpIi8+CjxnIG9wYWNpdHk9IjAuMTYiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI5LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5MjAuNSw2MC43OyA5NDYuNywtMzAuMzsgOTIwLjUsLTEyMS4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxMS43IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEyKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTIpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iODQyLjAsNTQuMjsgODcwLjIsLTM2Ljg7IDg0Mi4wLC0xMjcuOCIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTEuM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjQuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMikiIGZpbHRlcj0idXJsKCNzb2Z0LTEyKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjExNDYuMywyNS40OyAxMTczLjUsLTY1LjY7IDExNDYuMywtMTU2LjYiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjExLjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI0LjIiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIxMjgxLjAsNTEuMzsgMTMyNC40LC0zOS43OyAxMjgxLjAsLTEzMC43IiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI2LjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI1LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI0MzcuNiw1OC4wOyA0NTQuMSwtMzMuMDsgNDM3LjYsLTEyNC4wIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+Cjwvc3ZnPg==" width="100%" alt="divider"/>
+
 ## 🎓 Education
 
-| 🏫 Institution | 🎓 Degree | 📅 Expected Graduation |
-|:---:|:---:|:---:|
-| COMSATS University Islamabad, Vehari | Bachelor of Software Engineering | June 2027 |
+<div align="center">
+
+| 🏫 Institution | 🎓 Degree | 📅 Duration |
+|:---|:---|:---|
+| 🏫 COMSATS University Islamabad | 🎓 BS software Engineering | 📅 2023-2027 |
+
+
+</div>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNmM2M2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzZjNjNmZjsjOGU3Y2ZmOyM2YzYzZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGU3Y2ZmIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzhlN2NmZjsjMDBjOWE3OyM4ZTdjZmYiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwYzlhNyI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiMwMGM5YTc7IzZjNjNmZjsjMDBjOWE3IiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMiIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMiIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTIpIi8+CjxnIG9wYWNpdHk9IjAuMTYiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI5LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5MjAuNSw2MC43OyA5NDYuNywtMzAuMzsgOTIwLjUsLTEyMS4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxMS43IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEyKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTIpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iODQyLjAsNTQuMjsgODcwLjIsLTM2Ljg7IDg0Mi4wLC0xMjcuOCIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTEuM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjQuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMikiIGZpbHRlcj0idXJsKCNzb2Z0LTEyKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjExNDYuMywyNS40OyAxMTczLjUsLTY1LjY7IDExNDYuMywtMTU2LjYiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjExLjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI0LjIiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIxMjgxLjAsNTEuMzsgMTMyNC40LC0zOS43OyAxMjgxLjAsLTEzMC43IiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI2LjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMTUiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI1LjEiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTIpIiBmaWx0ZXI9InVybCgjc29mdC0xMikiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI0MzcuNiw1OC4wOyA0NTQuMSwtMzMuMDsgNDM3LjYsLTEyNC4wIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSI3LjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+Cjwvc3ZnPg==" width="100%" alt="divider"/>
 
 ## 🛠️ Tech Stack
 
@@ -47,162 +58,148 @@ fun_fact: "I debug faster with chai in hand ☕"
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,py,php,js,dart,java&theme=light" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,py,php,js,dart,java&theme=light" />
 
 <br/><br/>
 
 **Frameworks & Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,laravel,bootstrap,stripe&theme=light" alt="Frameworks and libraries" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,laravel,bootstrap,stripe&theme=light" />
 
 <br/><br/>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,sqlite&theme=light" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,sqlite&theme=light" />
 
 <br/><br/>
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jira&theme=light" alt="Tools and platforms" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jira&theme=light" />
 
 </div>
 
-## 💼 Experience
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEzIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDBjOWE3Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzAwYzlhNzsjNWZkNmM0OyMwMGM5YTciIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjNWZkNmM0Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzVmZDZjNDsjNmM2M2ZmOyM1ZmQ2YzQiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzZjNjNmZiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiM2YzYzZmY7IzAwYzlhNzsjNmM2M2ZmIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMyIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTMpIi8+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI2LjYiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTMpIiBmaWx0ZXI9InVybCgjc29mdC0xMykiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5NTkuNCw2MS43OyA5ODEuMywtMjkuMzsgOTU5LjQsLTEyMC4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSIxMi44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjI1Ij4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMTIuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjE4Mi4zLDUyLjY7IDIxMC4yLC0zOC40OyAxODIuMywtMTI5LjQiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjcuN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjMuNyIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjM4Ni4yLDI5Ljc7IDQyNS40LC02MS4zOyAzODYuMiwtMTUyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjEzLjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMjEiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxNC44IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEzKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTMpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iMTExMS4zLDM2LjM7IDExNDguOSwtNTQuNzsgMTExMS4zLC0xNDUuNyIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTIuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yOCI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjcuOCIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjYwMS44LDM5Ljc7IDY0MC43LC01MS4zOyA2MDEuOCwtMTQyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjYuOXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPC9zdmc+" width="100%" alt="divider"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 💼 Experience & Internships
 
-### 🏢 React.js Intern
-**[Internee.pk](https://internee.pk)** · Remote
-`Jan 2026 – Mar 2026`
+### 💼 Full Stack developer intern at **Code's Thinker**
+*July 2026 - present  | Bahawalpur*
 
-- Delivered **7+ production-level tasks**
-- Built an AI-powered resume analyzer
-- Shipped a full-stack e-commerce platform with secure payments
-- Developed a persistent AI chatbot using Gemini APIs
+Taking the full hand of the website, including designing, frontend and backend, Database management.Testing, Quality Assuring .
 
-</td>
-<td width="50%" valign="top">
+### 💼 Backend AI Engineering at **FlyRank AI**
+*July 2026 - present  | remote*
 
-### 🎨 Frontend Intern
-**[Tkxel](https://tkxel.com)** · Lahore, Pakistan
-`Aug 2025 – Sep 2025`
+Developing the backend of the systems using AI.
 
-- Enhanced **10+ high-fidelity** landing pages & newsletters
-- Improved cross-browser compatibility by **20%**
-- Achieved **97% alignment** with UI/UX design specs
+### 💼 Solutions Architecture at **AWS**
+*Oct 2025 | Remote*
 
-</td>
-</tr>
-</table>
+Designed scalable hosting architecture using AWS Elastic Beanstalk and documented technical cost–benefit analysis.
 
-### 🎓 Virtual Job Simulations — [Forage](https://www.theforage.com) · `Oct 2025 – Feb 2026`
+### 💼 Software Engineering Simulation at **Electronic Arts (Forage)**
+*Oct 2025 | Remote*
 
-| Company | Domain | Highlights |
-|:---:|:---:|---|
-| 🟠 **Mastercard** | Cybersecurity | Identified 15+ phishing vulnerabilities; built a security training program for 50+ virtual employees |
-| 🟡 **AWS** | Solutions Architecture | Designed scalable hosting on Elastic Beanstalk; wrote a cost–benefit analysis |
-| 🔵 **Citi** | Software Development | Built a real-time credit risk visualizer in Java; created UML state diagrams |
-| 🟢 **Electronic Arts** | Software Engineering | Proposed game feature improvements; optimized C++ data structures & UML class diagrams |
+Proposed and implemented game feature improvements focused on player engagement.
+- Optimized C++ data structures and designed detailed UML class diagrams for game systems.
+
+### 💼 Cybersecurity Simulation at **Mastercard (Forage)**
+*Nov 2025 | Remote*
+
+Identified 15+ critical phishing vulnerabilities in simulated environments.
+- Formulated a security training program that simulated real-world attacks to educate 50+ virtual employees on threat mitigation.
+
+### 💼 Software Development Simulation at **Citi (Forage)**
+*Feb 2026 | Remote*
+
+Built a real-time credit risk visualization tool using Java.Created comprehensive UML state diagrams for complex loan management systems.
+
+### 💼 Frontend Intern at **Tkxel**
+*Aug 2025 – Sep 2025 | Lahore, Pakistan*
+
+Enhanced 10+ high-fidelity landing pages and newsletter layouts.
+- Improved cross-browser compatibility by 20% across various devices and browsers.
+- Ensured 97% alignment with UI/UX design specifications through rigorous testing and refinement.
+
+### 💼 React.JS Intern at **Internee.pk**
+*Jan 2026 – March 2026 | Remote*
+
+Expanded production-level capabilities across 7+ tasks, including an AI-powered resume analyzer.
+- Developed a full-stack E-commerce platform with secure payment integration (Stripe).
+- Created a persistent AI chatbot utilizing Gemini APIs for intelligent interactions.
+
+
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEzIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDBjOWE3Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzAwYzlhNzsjNWZkNmM0OyMwMGM5YTciIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjNWZkNmM0Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzVmZDZjNDsjNmM2M2ZmOyM1ZmQ2YzQiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzZjNjNmZiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiM2YzYzZmY7IzAwYzlhNzsjNmM2M2ZmIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMyIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTMpIi8+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI2LjYiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTMpIiBmaWx0ZXI9InVybCgjc29mdC0xMykiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5NTkuNCw2MS43OyA5ODEuMywtMjkuMzsgOTU5LjQsLTEyMC4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSIxMi44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjI1Ij4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMTIuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjE4Mi4zLDUyLjY7IDIxMC4yLC0zOC40OyAxODIuMywtMTI5LjQiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjcuN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjMuNyIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjM4Ni4yLDI5Ljc7IDQyNS40LC02MS4zOyAzODYuMiwtMTUyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjEzLjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMjEiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxNC44IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEzKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTMpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iMTExMS4zLDM2LjM7IDExNDguOSwtNTQuNzsgMTExMS4zLC0xNDUuNyIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTIuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yOCI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjcuOCIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjYwMS44LDM5Ljc7IDY0MC43LC01MS4zOyA2MDEuOCwtMTQyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjYuOXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPC9zdmc+" width="100%" alt="divider"/>
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🛠️ Doctor's Hub
+In Pakistan, navigating the healthcare system often means facing long waiting lines, disjointed appointment scheduling, and poor accessibility to specialists. Recognizing this distressing bottleneck in patient care, I developed this fully automated, digital healthcare platform.
 
-### 💰 Finance Tracker
-Personal finance app with real-time balance tracking, budgeting analytics & a glassmorphism dashboard.
+**Tech Stack**: `React`, `TypeScript`, `Tailwind CSS`, `Vite`, `Node.js`, `Express.js`, `Supabase`, `PostgreSQL`, `REST APIs`, `Framer Motion`, `Radix UI`
 
-`Laravel 11` `PHP 8.2` `PostgreSQL` `Bootstrap 5` `JS`
+[Code Base 🔗](https://github.com/AlishbaIqbal123/doctor-hub) • [Live Demo 🚀](https://doctor-hub-fn.vercel.app/)
 
-</td>
-<td width="50%">
+### 🛠️ Lumina Study
+the study notes app, create notes notes from pdf files , documents, etc . Roadmap, Graphs, Visuals and with the AI use for help in understanding deeper logic.
 
-### 🕌 Deen-Mate
-Islamic companion app — Quran reading, prayer times, Qibla compass & offline-first audio streaming.
+**Tech Stack**: `Next.js`, `React`, `TypeScript`, `Tailwind CSS`, `Firebase`, `FastAPI`, `Hugging Face Spaces (Docker)`, `OpenRouter`
 
-`Flutter` `Firebase` `GetX` `REST APIs`
+[Code Base 🔗](https://github.com/AlishbaIqbal123/StudyNotes-Chatbot) • [Live Demo 🚀](https://luminastudy-9c978.web.app/)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 🛠️ NoorMarket
+An ecommerce website with full management of vendor, User and admin , use of stripe for payment, Firebase and Clerk for AUTHENTIcation. 
 
-### 🤖 AI Resume Analyzer
-MERN platform that parses resumes, performs semantic job-matching & ATS keyword analysis via Gemini AI.
+**Tech Stack**: `Typescript`, `Next.js`, `React.js`
 
-`React` `Node.js` `Express` `MongoDB` `Gemini AI`
+[Code Base 🔗](https://github.com/AlishbaIqbal123/Ecommerce-web) • [Live Demo 🚀](https://ecommerce-web-omega-amber.vercel.app/)
 
-</td>
-<td width="50%">
+### 🛠️ Aesthetic Portfolio v2
+A creative, high-performance portfolio featuring a multi-page 'Bubble' aesthetic, dynamic animations, and an integrated Admin Panel for real-time updates via Supabase.
 
-### ✅ Plan & Track
-Task manager with recurring tasks, subtasks, progress tracking & customizable themes.
+**Tech Stack**: `React`, `Vite`, `Supabase`, `Framer Motion`, `Lucide Icons`
 
-`Flutter` `Dart` `SQLite` `Provider`
+[Code Base 🔗](https://github.com/AlishbaIqbal123/portfolio)
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+### 🛠️ Deen-Mate (Islamic Companion)
+Engineered a feature-rich Islamic mobile application with Quran reading, prayer time calculations, Qibla compass, and background audio streaming. Built with Flutter and Firebase with offline-first support and high-fidelity mobile UI.
 
-### 🏪 Smart POS & Inventory Management
-Offline-first business app with POS checkout, inventory tracking, customer ledger & automated Google Drive backups.
+**Tech Stack**: `Flutter`, `Firebase`, `GetX`, `REST APIs`, `Offline-first`
 
-`Flutter` `Firebase` `SQLite` `Provider`
+[Code Base 🔗](https://github.com/AlishbaIqbal123/Deen-Mate-ISLAMIC-Companion-)
 
-</td>
-</tr>
-</table>
+### 🛠️ Smart POS & Inventory Management
+Built a business management mobile app with POS checkout, inventory tracking, customer ledger, offline-first data handling, and automated Google Drive backups with cloud sync.
 
-## 🐍 Live Contribution Snake
+**Tech Stack**: `Flutter`, `Firebase`, `SQLite`, `Provider`, `Cloud Sync`
 
-<div align="center">
+[Code Base 🔗](https://github.com/AlishbaIqbal123/mobile-apps)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlishbaIqbal123/AlishbaIqbal123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlishbaIqbal123/AlishbaIqbal123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AlishbaIqbal123/AlishbaIqbal123/output/github-contribution-grid-snake.svg">
-</picture>
+### 🛠️ Nexus AI Chatbot
+Next-generation AI conversation platform powered by Gemini AI. Features a beautiful, context-aware chat interface with smart responses and seamless design. Part of production-level internship tasks.
 
-<sub>⚡ Animated snake that "eats" your contribution graph — powered by a GitHub Action.</sub>
+**Tech Stack**: `React`, `TypeScript`, `Gemini API`, `Framer Motion`, `Tailwind CSS`
 
-</div>
+[Live Demo 🚀](https://chatbot-using-gemini-pearl.vercel.app/)
 
-## 📊 GitHub Stats & Achievements
 
-> ⚡ These cards are generated by scheduled GitHub Actions and committed straight into this repo, so they stay visible without relying on blank-prone external renderers.
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI3MCIgdmlld0JveD0iMCAwIDE0MDAgNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImJnLTEzIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDBjOWE3Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzAwYzlhNzsjNWZkNmM0OyMwMGM5YTciIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjNWZkNmM0Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iIzVmZDZjNDsjNmM2M2ZmOyM1ZmQ2YzQiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9zdG9wPgogIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzZjNjNmZiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiM2YzYzZmY7IzAwYzlhNzsjNmM2M2ZmIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvc3RvcD4KPC9saW5lYXJHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJidWJibGUtZ3JhZC0xMyIgY3g9IjM1JSIgY3k9IjMwJSIgcj0iNzAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuNTUiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDMiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGZpbHRlciBpZD0ic29mdC0xMyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMS4yIi8+PC9maWx0ZXI+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjE0MDAiIGhlaWdodD0iNzAiIGZpbGw9InVybCgjYmctMTMpIi8+CjxnIG9wYWNpdHk9IjAuMTQiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI2LjYiIGZpbGw9InVybCgjYnViYmxlLWdyYWQtMTMpIiBmaWx0ZXI9InVybCgjc29mdC0xMykiLz4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSI5NTkuNCw2MS43OyA5ODEuMywtMjkuMzsgOTU5LjQsLTEyMC4zIiBrZXlUaW1lcz0iMDswLjU7MSIgZHVyPSIxMi44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KPC9nPgo8ZyBvcGFjaXR5PSIwLjI1Ij4KICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMTIuMiIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjE4Mi4zLDUyLjY7IDIxMC4yLC0zOC40OyAxODIuMywtMTI5LjQiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjcuN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yNSI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjMuNyIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjM4Ni4yLDI5Ljc7IDQyNS40LC02MS4zOyAzODYuMiwtMTUyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjEzLjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgo8L2c+CjxnIG9wYWNpdHk9IjAuMjEiPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIxNC44IiBmaWxsPSJ1cmwoI2J1YmJsZS1ncmFkLTEzKSIgZmlsdGVyPSJ1cmwoI3NvZnQtMTMpIi8+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iMTExMS4zLDM2LjM7IDExNDguOSwtNTQuNzsgMTExMS4zLC0xNDUuNyIga2V5VGltZXM9IjA7MC41OzEiIGR1cj0iMTIuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPGcgb3BhY2l0eT0iMC4yOCI+CiAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjcuOCIgZmlsbD0idXJsKCNidWJibGUtZ3JhZC0xMykiIGZpbHRlcj0idXJsKCNzb2Z0LTEzKSIvPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIiB2YWx1ZXM9IjYwMS44LDM5Ljc7IDY0MC43LC01MS4zOyA2MDEuOCwtMTQyLjMiIGtleVRpbWVzPSIwOzAuNTsxIiBkdXI9IjYuOXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvZz4KPC9zdmc+" width="100%" alt="divider"/>
+
+## 📊 GitHub Metrics & Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlishbaIqbal123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishbaIqbal123&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIqbal123&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlishbaIqbal123&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishbaIqbal123&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity graph" />
-
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:i.alishba1342@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/alishba-iqbal-a667b6263" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00C9A7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://alishbaiqbal123.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/AlishbaIqbal123" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AlishbaIqbal123&show_icons=true&theme=midnight-purple&title_color=6C63FF&text_color=ffffff&icon_color=00C9A7&bg_color=0b132b&hide_border=true" alt="GitHub Stats" width="400" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIqbal123&layout=compact&theme=midnight-purple&title_color=6C63FF&text_color=ffffff&bg_color=0b132b&hide_border=true" alt="Top Languages" width="350" />
+      </td>
+    </tr>
+  </table>
 </div>
