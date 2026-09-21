@@ -85,12 +85,12 @@ fun_fact: "I debug faster with chai in hand ☕"
 ## 💼 Experience & Internships
 
 ### 💼 Full Stack developer intern at **Code's Thinker**
-*July 2026 - present  | Bahawalpur*
+*July 2026 - August 2026  | Bahawalpur*
 
 Taking the full hand of the website, including designing, frontend and backend, Database management.Testing, Quality Assuring .
 
 ### 💼 Backend AI Engineering at **FlyRank AI**
-*July 2026 - present  | remote*
+*July 2026 - Sep 2026  | remote*
 
 Developing the backend of the systems using AI.
 
